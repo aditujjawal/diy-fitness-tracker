@@ -5,8 +5,8 @@
 4. Open new terminal 
 5. Upper arrow to edge-impulse daemon 
 6. Enter 
-7. Mail: shreyadokaniagrd@gmail.com 
-8. Pw: XhuJ466&
+7. Mail: xxxx
+8. Pw: xxxx
 9. Green connected 
 10. Safari > edge impulse > get started > automatic login 
 11. Devices > already marked (green dot) 
